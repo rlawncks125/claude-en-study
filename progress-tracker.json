@@ -1,0 +1,31 @@
+{
+  "currentWeek": 1,
+  "completedWeeks": [],
+  "weekProgress": {
+    "week-01": {
+      "status": "in-progress",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalTestScore": null,
+      "selfAssessment": {
+        "alphabetMastery": 0,
+        "vocabularyCount": 0,
+        "numbersMastery": 0,
+        "grammarUnderstanding": 0,
+        "overallSatisfaction": 0
+      }
+    }
+  },
+  "totalStudyTime": 0,
+  "totalWordsLearned": 0,
+  "lastUpdated": null
+}
