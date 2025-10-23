@@ -23,14 +23,21 @@ This repository contains comprehensive study strategies and resources for Korean
 
 ### 📅 주차별 학습 (Weekly Curriculum)
 
-#### 🎯 [Week 1 - 기초의 기초](./week-01/)
-**알파벳부터 자기소개까지**
-- 알파벳 A-Z 완전 정복
-- 기본 단어 40개+
-- 숫자 1-20
-- 4가지 핵심 문법 패턴
-- 영어로 자기소개하기
-- **학습 시간:** 매일 30분 × 7일
+#### 🎯 [Week 1 - 실용 영어 기초](./week-01/)
+**비즈니스 & 일상 영어 시작**
+- 필수 단어 100개+ (업무/일상)
+- Be동사 & 일반동사 현재형/과거형
+- 실전 자기소개 & 일과 설명
+- 빈도 표현 & 시간 표현
+- **학습 시간:** 매일 40분 × 7일
+- **난이도:** 성인 학습자 기준
+
+### 📖 문법 레퍼런스 (Grammar Reference)
+- **[grammar/](./grammar/)** - 체계적인 문법 정리
+  - Be동사
+  - 일반동사 현재형/과거형
+  - 진행형, 완료형
+  - 조동사, 수동태 등
 
 ### 📊 진행 상황 추적 (Progress Tracking)
 - **[study-tracker.md](./study-tracker.md)** - 수동 체크리스트

@@ -1,258 +1,290 @@
 # Week 1 - Day 2 (화요일)
 
-## 📅 오늘의 학습 목표
-- [ ] 알파벳 G-M 읽고 쓰기
-- [ ] be동사 (am, is, are) 이해하기
-- [ ] 새로운 단어 7개 익히기
-- [ ] 간단한 문장 만들기
+## 📅 학습 목표
+- [ ] 일반동사 현재형 완전 정복
+- [ ] 일상/업무 동사 20개 익히기
+- [ ] 루틴 표현하기
+- [ ] 부정문/의문문 만들기
+
+**학습 시간: 40분**
 
 ---
 
-## 🔄 어제 배운 내용 복습 (5분)
+## 🔄 복습 (5분)
 
-### 빠른 체크!
-- 알파벳 A-F 기억나나요? → A B C D E F
-- 어제 배운 단어 5개: Apple, Book, Cat, Dog, Egg
-- 인사: Hello, Hi, Good morning
-
-**복습 완료:** [ ]
+### Quick Check
+- [ ] 어제 배운 15개 단어 기억나는지 확인
+- [ ] 자기소개 한 번 더 말해보기
 
 ---
 
-## 🔤 알파벳 학습: G - M
+## 📖 문법: 일반동사 현재형
 
-### 대문자와 소문자
-| 대문자 | 소문자 | 발음 |
-|--------|--------|------|
-| G | g | 지 |
-| H | h | 에이치 |
-| I | i | 아이 |
-| J | j | 제이 |
-| K | k | 케이 |
-| L | l | 엘 |
-| M | m | 엠 |
+> 상세 설명: [grammar/02-simple-present.md](../grammar/02-simple-present.md)
 
-### ✍️ 쓰기 연습
-각 글자를 5번씩 써보세요:
+### 기본 규칙
 
 ```
-G G G G G    g g g g g
-H H H H H    h h h h h
-I I I I I    i i i i i
-J J J J J    j j j j j
-K K K K K    k k k k k
-L L L L L    l l l l l
-M M M M M    m m m m m
+I/You/We/They + 동사원형
+He/She/It + 동사원형 + s/es
+
+I work.
+He works.
 ```
 
-**완료 체크:** [ ]
-
----
-
-## 📚 오늘의 단어 (7개)
-
-| 영어 | 발음 | 한국어 | 품사 |
-|------|------|--------|------|
-| **Happy** | 해피 | 행복한 | 형용사 |
-| **Good** | 굿 | 좋은 | 형용사 |
-| **I** | 아이 | 나 | 대명사 |
-| **You** | 유 | 너 | 대명사 |
-| **Man** | 맨 | 남자 | 명사 |
-| **Girl** | 걸 | 소녀 | 명사 |
-| **It** | 잇 | 그것 | 대명사 |
-
-### 🎯 암기 체크
-각 단어로 입으로 3번씩 말하기:
-- [ ] Happy
-- [ ] Good
-- [ ] I, You, It
-- [ ] Man, Girl
-
----
-
-## 📖 오늘의 문법: be동사 (am, is, are)
-
-### be동사란?
-영어에서 "~이다", "~있다"를 나타내는 동사입니다.
-
-### be동사의 3가지 형태
-
-#### 1. am (앰)
-- **사용:** I (나) 뒤에만 사용
-- **예문:**
-  - I am happy. (나는 행복해)
-  - I am a student. (나는 학생이야)
-  - I am here. (나는 여기 있어)
-
-#### 2. is (이즈)
-- **사용:** He(그), She(그녀), It(그것) 뒤에 사용
-- **예문:**
-  - He is a man. (그는 남자야)
-  - She is happy. (그녀는 행복해)
-  - It is a book. (그것은 책이야)
-
-#### 3. are (아)
-- **사용:** You(너), We(우리), They(그들) 뒤에 사용
-- **예문:**
-  - You are good. (너는 좋아)
-  - You are a girl. (너는 소녀야)
-  - You are here. (너는 여기 있어)
-
-### 📝 be동사 정리표
-
-| 주어 | be동사 | 예문 |
-|------|--------|------|
-| I (나) | am | I am happy |
-| You (너) | are | You are good |
-| He (그) | is | He is a man |
-| She (그녀) | is | She is a girl |
-| It (그것) | is | It is a cat |
-
-**암기 완료:** [ ]
-
----
-
-## ✏️ 문장 만들기 연습
-
-### 연습 1: I am + 형용사
-다음 문장을 소리 내어 10번씩 읽으세요:
-1. I am happy. (나는 행복해)
-2. I am good. (나는 좋아)
-
-**읽기 완료:** [ ]
-
-### 연습 2: 빈칸 채우기
-올바른 be동사를 넣으세요 (am, is, are):
-
-1. I _____ happy.
-2. You _____ good.
-3. It _____ a cat.
-4. He _____ a man.
-5. She _____ a girl.
-
-**답은 페이지 하단에 있습니다**
-
-### 연습 3: 문장 완성하기
-자기 소개 문장 만들기:
+### 부정문
 ```
-I am ____________. (your name)
-I am ____________. (happy/good)
+I/You/We/They + don't + 동사원형
+He/She/It + doesn't + 동사원형
+
+I don't work on weekends.
+She doesn't drink coffee.
 ```
 
-**나만의 문장:** [ ]
-
----
-
-## 🎵 발음 연습
-
-### G-M으로 시작하는 단어
-소리 내어 5번씩 읽으세요:
-
-1. **G** - Good (굿), Girl (걸), Go (고우)
-2. **H** - Happy (해피), Hello (헬로우), House (하우스)
-3. **I** - I (아이), It (잇)
-4. **J** - Jump (점프)
-5. **K** - King (킹)
-6. **L** - Like (라이크), Love (러브)
-7. **M** - Man (맨), Mom (맘)
-
-**발음 연습 완료:** [ ]
-
----
-
-## 💬 오늘의 미니 대화
-
+### 의문문
 ```
-A: Hello! I am Tom.
-   (헬로우! 아이 앰 톰.)
-   안녕! 나는 톰이야.
+Do + I/you/we/they + 동사원형?
+Does + he/she/it + 동사원형?
 
-B: Hi! I am Jane.
-   (하이! 아이 앰 제인.)
-   안녕! 나는 제인이야.
-
-A: I am happy!
-   (아이 앰 해피!)
-   나는 행복해!
-
-B: I am happy, too!
-   (아이 앰 해피, 투!)
-   나도 행복해!
+Do you work here?
+Does he speak English?
 ```
 
-**역할극 연습 (10번):** [ ]
+---
+
+## 📚 필수 동사 20개
+
+### 업무 관련 (10개)
+
+| 동사 | 3인칭 단수 | 뜻 | 예문 |
+|------|-----------|-----|------|
+| **work** | works | 일하다 | I work remotely. |
+| **manage** | manages | 관리하다 | She manages the team. |
+| **develop** | develops | 개발하다 | He develops software. |
+| **handle** | handles | 처리하다 | I handle customer inquiries. |
+| **attend** | attends | 참석하다 | I attend meetings regularly. |
+| **send** | sends | 보내다 | Please send me the report. |
+| **receive** | receives | 받다 | I receive many emails. |
+| **submit** | submits | 제출하다 | She submits reports weekly. |
+| **check** | checks | 확인하다 | I check my email hourly. |
+| **use** | uses | 사용하다 | We use Slack for communication. |
+
+### 일상 생활 (10개)
+
+| 동사 | 3인칭 단수 | 뜻 | 예문 |
+|------|-----------|-----|------|
+| **live** | lives | 살다 | I live in Seoul. |
+| **commute** | commutes | 통근하다 | He commutes by subway. |
+| **wake up** | wakes up | 일어나다 | I wake up at 7. |
+| **start** | starts | 시작하다 | Work starts at 9. |
+| **finish** | finishes | 끝나다 | I finish at 6. |
+| **eat** | eats | 먹다 | I eat lunch at noon. |
+| **drink** | drinks | 마시다 | She drinks coffee. |
+| **exercise** | exercises | 운동하다 | I exercise after work. |
+| **study** | studies | 공부하다 | He studies English daily. |
+| **go** | goes | 가다 | I go to the gym. |
 
 ---
 
-## 🏃 오늘의 액션 아이템
+## 💬 루틴 표현하기
 
-### 30분 학습 계획
-1. ⏰ **0-5분**: 어제 배운 내용 복습
-2. ⏰ **5-15분**: 알파벳 G-M 쓰기
-3. ⏰ **15-25분**: be동사 학습 및 문장 만들기
-4. ⏰ **25-30분**: 연습문제 및 복습
-
-**전체 완료:** [ ]
-
----
-
-## 📝 오늘의 추가 연습
-
-### 자기소개 만들기
-아래 템플릿을 사용해서 자기소개를 만들어보세요:
+### 일과 설명
 
 ```
-Hello! I am ____________. (이름)
-I am happy.
-I am good.
+My Daily Routine:
+
+I wake up at 7 AM.
+I have breakfast at 7:30.
+I commute by subway.
+I start work at 9.
+I have lunch at noon.
+I finish work at 6.
+I exercise in the evening.
+I go to bed around midnight.
 ```
 
-### 10번 말하기 연습
-- 거울 보고 연습하기: [ ]
-- 핸드폰으로 녹음하기: [ ]
+### 업무 루틴
+
+```
+My Work Routine:
+
+I check my email first thing in the morning.
+I attend team meetings on Mondays.
+I work on projects throughout the day.
+I submit weekly reports on Fridays.
+I don't work on weekends.
+```
 
 ---
 
-## ✅ 오늘의 학습 완료 체크
+## 🎯 빈도 표현
 
-- [ ] 알파벳 G-M 쓰기 완료
-- [ ] 단어 7개 암기 완료
-- [ ] be동사 이해 완료
-- [ ] 문장 만들기 연습 완료
-- [ ] 발음 연습 완료
-- [ ] 미니 대화 연습 완료
+### 빈도부사
+
+| 빈도 | 영어 | 예문 |
+|------|------|------|
+| 100% | always | I always check my email. |
+| 90% | usually | I usually work from the office. |
+| 70% | often | I often work late. |
+| 50% | sometimes | I sometimes work remotely. |
+| 30% | occasionally | I occasionally travel for work. |
+| 10% | rarely/seldom | I rarely work on weekends. |
+| 0% | never | I never skip breakfast. |
+
+### 시간 표현
+
+```
+every day/week/month (매일/주/월)
+on Mondays (월요일마다)
+in the morning/afternoon/evening (아침/오후/저녁에)
+at 9 AM (9시에)
+```
+
+**예문:**
+```
+I work out every day.
+I have meetings on Tuesdays.
+I study English in the evening.
+I start work at 9 AM.
+```
+
+---
+
+## 💬 실전 대화
+
+### 대화 1: 직업 묻기
+```
+A: What do you do?
+B: I work as a data analyst. How about you?
+A: I'm a marketing manager.
+B: Do you like your job?
+A: Yes, I do. It's challenging but rewarding.
+```
+
+### 대화 2: 일과 이야기
+```
+A: What time do you start work?
+B: I start at 9. What about you?
+A: I start at 8:30.
+B: Do you work from home?
+A: Sometimes. I usually work from the office.
+```
+
+### 대화 3: 취미
+```
+A: What do you do in your free time?
+B: I exercise and study English. How about you?
+A: I usually read books and watch movies.
+B: Do you exercise regularly?
+A: Yes, I go to the gym three times a week.
+```
+
+---
+
+## ✏️ 연습 문제
+
+### 문제 1: 동사 형태 선택
+1. I (work/works) at a tech company.
+2. She (manage/manages) a large team.
+3. They (don't/doesn't) work on weekends.
+4. He (study/studies) English every day.
+5. We (use/uses) various tools for work.
+
+### 문제 2: 부정문 만들기
+1. I drink coffee. → _____
+2. She works from home. → _____
+3. They attend meetings. → _____
+
+### 문제 3: 의문문 만들기
+1. You work here. → _____
+2. He speaks Korean. → _____
+3. They finish at 6. → _____
+
+### 문제 4: 나의 루틴 작성 (5문장)
+```
+1. I wake up at _____.
+2. I _____ at _____.
+3. I usually _____.
+4. I sometimes _____.
+5. I never _____.
+```
+
+---
+
+## 🏃 실전 과제
+
+### 1. 일과 작성하기 (10분)
+자신의 실제 일과를 영어로 작성:
+```
+Morning:
+- I wake up at _____.
+- I _____.
+
+Afternoon:
+- I _____.
+- I _____.
+
+Evening:
+- I _____.
+- I _____.
+```
+
+### 2. 동사 실전 활용 (10분)
+오늘 배운 20개 동사 중 10개를 사용해서 자신에 대한 문장 만들기
+
+### 3. 대화 연습 (10분)
+- [ ] 위의 실전 대화 3개를 소리 내어 10번씩 읽기
+- [ ] 가능하면 녹음해서 들어보기
+
+---
+
+## ✅ 완료 체크리스트
+
+- [ ] 일반동사 현재형 규칙 이해
+- [ ] 필수 동사 20개 암기
+- [ ] 부정문/의문문 만들기 연습
+- [ ] 루틴 표현 익히기
+- [ ] 빈도 표현 학습
+- [ ] 실전 대화 연습
 
 **학습 시간:** ___분
-**어려웠던 점:**
-**잘된 점:**
-**내일 목표:**
-
----
-
-## 💡 학습 팁
-
-### 오늘의 팁
-- be동사는 외우는 것보다 많이 사용해보는 게 중요해요
-- "I am happy" 하루에 10번씩 말해보세요
-- 모든 문장을 소리 내어 읽으세요!
-
-### 복습 방법
-- 자기 전: "I am ___" 문장 5개 만들어보기
-- 내일 아침: 오늘 배운 be동사 다시 보기
+**새로 배운 유용한 표현:**
+**실생활에서 사용할 문장:**
 
 ---
 
 ## 📌 정답
 
-### 연습 2 답
-1. I **am** happy.
-2. You **are** good.
-3. It **is** a cat.
-4. He **is** a man.
-5. She **is** a girl.
+### 문제 1
+1. work
+2. manages
+3. don't
+4. studies
+5. use
+
+### 문제 2
+1. I don't drink coffee.
+2. She doesn't work from home.
+3. They don't attend meetings.
+
+### 문제 3
+1. Do you work here?
+2. Does he speak Korean?
+3. Do they finish at 6?
 
 ---
 
-**🎉 2일차 완료! 벌써 be동사를 배웠어요!**
+## 💡 학습 팁
 
-**내일은 알파벳 N-T와 더 많은 단어를 배워요!**
+### 효과적인 암기법
+1. **맥락과 함께** - 단어만 외우지 말고 문장으로
+2. **실생활 연결** - 자신의 실제 상황에 적용
+3. **반복** - 배운 표현을 실제로 사용해보기
+
+### 다음 학습 준비
+- 오늘 배운 동사들을 하루 일과에 적용해보기
+- 내일은 과거형과 시간 표현을 배웁니다
+
+---
+
+**다음:** [Day 3 - 수요일](./day-3-wednesday.md) - 과거형 & 시간 표현
