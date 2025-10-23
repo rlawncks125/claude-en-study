@@ -1,325 +1,359 @@
 # Week 1 - Day 5 (금요일)
 
-## 📅 오늘의 학습 목표
-- [ ] 숫자 1-20 익히기
-- [ ] 새로운 단어 8개 배우기
-- [ ] "I have + 숫자" 패턴 익히기
-- [ ] 간단한 질문 표현 배우기
+## 📅 학습 목표
+- [ ] 조동사 (can, should, will) 완전 정복
+- [ ] 비즈니스 표현 20개 익히기
+- [ ] 공손한 요청 및 제안 표현
+- [ ] Week 1 종합 정리
+
+**학습 시간: 40분**
 
 ---
 
-## 🔄 복습 타임 (5분)
+## 🔄 복습 (5분)
 
-### 빠른 체크!
-1. 알파벳 A-Z 암송: [ ]
-2. 어제 배운 동사 5개: go, come, eat, drink, like
-3. 문장 만들기: I _____ food. (eat)
-
-**복습 완료:** [ ]
+### Quick Check
+- [ ] 현재진행형: I'm working on ~
+- [ ] 현재 vs 진행형: I work vs I'm working
+- [ ] 상태동사: know, have, understand (진행형 X)
 
 ---
 
-## 🔢 숫자 배우기: 1-20
+## 📖 문법: 조동사 (Modal Verbs)
 
-### 숫자 1-10
-| 숫자 | 영어 | 발음 |
-|------|------|------|
-| 1 | one | 원 |
-| 2 | two | 투 |
-| 3 | three | 쓰리 |
-| 4 | four | 포 |
-| 5 | five | 파이브 |
-| 6 | six | 식스 |
-| 7 | seven | 세븐 |
-| 8 | eight | 에잇 |
-| 9 | nine | 나인 |
-| 10 | ten | 텐 |
-
-### 숫자 11-20
-| 숫자 | 영어 | 발음 |
-|------|------|------|
-| 11 | eleven | 일레븐 |
-| 12 | twelve | 트웰브 |
-| 13 | thirteen | 썰틴 |
-| 14 | fourteen | 포틴 |
-| 15 | fifteen | 픽틴 |
-| 16 | sixteen | 식스틴 |
-| 17 | seventeen | 세븐틴 |
-| 18 | eighteen | 에잇틴 |
-| 19 | nineteen | 나인틴 |
-| 20 | twenty | 트웬티 |
-
-### 📝 숫자 쓰기 연습
-1-20까지 영어로 써보세요:
-```
-1. one
-2.
-3.
-...
-20.
-```
-
-**쓰기 완료:** [ ]
-
-### 🎵 숫자 노래로 외우기
-1-10까지 리듬에 맞춰 10번 말하기:
-"One, two, three, four, five,
-Six, seven, eight, nine, ten!"
-
-**암기 완료:** [ ]
-
----
-
-## 📚 오늘의 단어 (8개)
-
-| 영어 | 발음 | 한국어 | 예문 |
-|------|------|--------|------|
-| **Friend** | 프렌드 | 친구 | I have a friend. |
-| **Brother** | 브라더 | 남자형제 | I have a brother. |
-| **Sister** | 시스터 | 여자형제 | I have a sister. |
-| **Time** | 타임 | 시간 | I have time. |
-| **Money** | 머니 | 돈 | I want money. |
-| **Name** | 네임 | 이름 | My name is Tom. |
-| **Old** | 올드 | 나이/오래된 | I am 20 years old. |
-| **Year** | 이어 | 년 | I am 20 years old. |
-
-**단어 암기 완료:** [ ]
-
----
-
-## 📖 오늘의 문법: I have + 숫자 + 명사
-
-### 패턴 설명
-"I have"는 "나는 ~을 가지고 있다"라는 뜻입니다.
-숫자를 넣으면 "몇 개"인지 말할 수 있어요!
+> 상세 설명: [grammar/08-modals.md](../grammar/08-modals.md)
 
 ### 기본 구조
-```
-I have + 숫자 + 명사
-```
 
-### 예문
 ```
-I have one book. (나는 책 1권이 있어)
-I have two cats. (나는 고양이 2마리가 있어)
-I have three pens. (나는 펜 3개가 있어)
-I have five friends. (나는 친구 5명이 있어)
+주어 + 조동사 + 동사원형
+
+I can help you.
+She should check it.
+We will finish soon.
 ```
-
-### 🎯 중요 포인트!
-숫자가 2개 이상이면 명사에 **s**를 붙여요!
-- one book (한 권)
-- two book**s** (두 권)
-- three cat**s** (세 마리)
-
-**문법 이해 완료:** [ ]
 
 ---
 
-## ✏️ 문장 만들기 연습
+## 📚 주요 조동사 3가지
 
-### 연습 1: 숫자 세기
-주변 물건을 세고 영어로 말하기:
+### 1. Can (능력, 가능, 허가)
 
+**능력 (~할 수 있다)**
 ```
-I have ___ pen(s). (펜 개수 세기)
-I have ___ book(s). (책 개수 세기)
-I have ___ phone(s). (폰 개수 세기)
-```
-
-**실제로 세어보기:** [ ]
-
-### 연습 2: 빈칸 채우기
-올바른 형태를 선택하세요:
-
-1. I have one (cat / cats).
-2. I have two (friend / friends).
-3. I have three (pen / pens).
-4. I have five (book / books).
-
-**답은 페이지 하단**
-
-### 연습 3: 나에 대해 말하기
-자신에 대해 문장 만들기:
-
-```
-My name is __________.
-I am ___ years old.
-I have ___ friend(s).
-I have ___ brother(s).
-I have ___ sister(s).
+I can speak English.
+I can use Excel.
+I can code in Python.
+She can manage multiple projects.
 ```
 
-**10번 말하기:** [ ]
+**허가 요청 (비격식)**
+```
+Can I leave early today?
+Can we reschedule the meeting?
+Can I use this conference room?
+```
+
+**제안**
+```
+We can discuss this tomorrow.
+I can help you with that.
+```
 
 ---
 
-## 💬 질문 표현 배우기
+### 2. Should (권고, 조언)
 
-### What is your name? (이름이 뭐예요?)
-
-#### 질문과 대답
+**조언 (~해야 한다)**
 ```
-A: What is your name?
-   (왓 이즈 유어 네임?)
-   이름이 뭐예요?
-
-B: My name is Tom.
-   (마이 네임 이즈 톰.)
-   제 이름은 톰이에요.
+You should check your email.
+We should finish this by Friday.
+You should attend the meeting.
+I should review the document.
 ```
 
-### How old are you? (몇 살이에요?)
-
-#### 질문과 대답
+**부정문**
 ```
-A: How old are you?
-   (하우 올드 아 유?)
-   몇 살이에요?
-
-B: I am 20 years old.
-   (아이 앰 트웬티 이어스 올드.)
-   저는 20살이에요.
+You shouldn't skip the meeting.
+We shouldn't rush the decision.
+I shouldn't work late tonight.
 ```
-
-**질문-대답 연습 (각 10번):** [ ]
 
 ---
 
-## 🎮 오늘의 미니 대화
+### 3. Will (미래, 의지)
 
+**미래**
 ```
-A: Hello! What is your name?
-   (헬로우! 왓 이즈 유어 네임?)
-   안녕! 이름이 뭐예요?
-
-B: My name is Jane. What is your name?
-   (마이 네임 이즈 제인. 왓 이즈 유어 네임?)
-   제 이름은 제인이에요. 이름이 뭐예요?
-
-A: My name is Tom. How old are you?
-   (마이 네임 이즈 톰. 하우 올드 아 유?)
-   제 이름은 톰이에요. 몇 살이에요?
-
-B: I am 20 years old. I have two brothers.
-   (아이 앰 트웬티 이어스 올드. 아이 해브 투 브라더스.)
-   저는 20살이에요. 남자형제가 2명 있어요.
-
-A: I have one sister!
-   (아이 해브 원 시스터!)
-   저는 여자형제가 1명 있어요!
+I will finish it tomorrow.
+The meeting will start at 2.
+We will launch next week.
 ```
 
-**역할극 연습 (5번):** [ ]
+**의지, 약속**
+```
+I will help you.
+I will send it by EOD. (End of Day)
+We will deliver on time.
+```
+
+**won't (will not)**
+```
+I won't be late.
+She won't attend the meeting.
+We won't miss the deadline.
+```
 
 ---
 
-## 🏃 오늘의 액션 아이템
+## 💬 비즈니스 필수 표현 (20개)
 
-### 30분 학습 계획
-1. ⏰ **0-5분**: 복습 (알파벳, 동사)
-2. ⏰ **5-15분**: 숫자 1-20 암기
-3. ⏰ **15-25분**: I have 패턴 연습
-4. ⏰ **25-30분**: 자기소개 연습
+### 요청 표현
 
-**전체 완료:** [ ]
+| 영어 | 한국어 | 상황 |
+|------|--------|------|
+| **Can you send me the file?** | 파일 보내주실 수 있나요? | 비격식 요청 |
+| **Could you review this?** | 검토해주시겠어요? | 공손한 요청 |
+| **Would you be able to join?** | 참석 가능하신가요? | 격식 요청 |
+| **Can I have a moment?** | 잠깐 시간 있으세요? | 시간 요청 |
+| **Could we reschedule?** | 일정 변경 가능할까요? | 일정 조율 |
+
+### 제안 표현
+
+| 영어 | 한국어 | 상황 |
+|------|--------|------|
+| **We can meet tomorrow.** | 내일 만날 수 있어요. | 일정 제안 |
+| **Should we discuss this?** | 이것 논의할까요? | 의견 묻기 |
+| **We could try a different approach.** | 다른 방법을 시도할 수 있어요. | 대안 제시 |
+| **I can handle that.** | 제가 처리할게요. | 업무 수락 |
+| **Let's schedule a follow-up.** | 후속 미팅 잡아요. | 일정 제안 |
+
+### 계획/의지 표현
+
+| 영어 | 한국어 | 상황 |
+|------|--------|------|
+| **I will finish it today.** | 오늘 끝낼게요. | 약속 |
+| **We will launch next month.** | 다음 달 출시할 거예요. | 미래 계획 |
+| **I will get back to you.** | 회신 드리겠습니다. | 연락 약속 |
+| **I will keep you updated.** | 계속 알려드릴게요. | 진행 상황 공유 |
+| **I will check on that.** | 확인해볼게요. | 확인 약속 |
+
+### 능력/가능 표현
+
+| 영어 | 한국어 | 상황 |
+|------|--------|------|
+| **I can start immediately.** | 바로 시작할 수 있어요. | 가능성 |
+| **I can work on weekends.** | 주말에도 일할 수 있어요. | 유연성 |
+| **We can meet your deadline.** | 마감일 맞출 수 있어요. | 보장 |
+| **I can provide more details.** | 더 자세히 알려드릴 수 있어요. | 정보 제공 |
+| **I can join the call.** | 통화 참여할 수 있어요. | 참석 가능 |
 
 ---
 
-## 📝 자기소개 완성하기
+## 🎯 실전 대화
 
-### 템플릿
-아래 내용을 채워서 자기소개를 완성하세요:
-
+### 대화 1: 일정 조율
 ```
-Hello! My name is ____________.
-I am ___ years old.
-I have ___ friend(s).
-I have ___ brother(s).
-I have ___ sister(s).
-I like ____________.
+A: Can we meet tomorrow?
+B: I have back-to-back meetings tomorrow.
+   Could we do it on Wednesday?
+A: Wednesday works. What time?
+B: I'm free after 3.
+A: Perfect. I will send a calendar invite.
 ```
 
-### 연습 방법
-1. 종이에 쓰기
-2. 거울 보고 10번 말하기
-3. 핸드폰으로 녹음하기
+### 대화 2: 업무 요청
+```
+A: Could you review my presentation?
+B: Sure, I can do that.
+   When do you need it by?
+A: By end of day, if possible.
+B: No problem. I will send feedback by 5.
+```
 
-**자기소개 완성:** [ ]
-
----
-
-## 🎵 숫자 게임
-
-### 게임 1: 거꾸로 세기
-20부터 1까지 거꾸로 세어보세요:
-"Twenty, nineteen, eighteen..."
-
-### 게임 2: 주변 물건 세기
-방 안을 둘러보고 세어보세요:
-- I have ___ books.
-- I have ___ pens.
-- I have ___ chairs.
-
-**게임 완료:** [ ]
+### 대화 3: 문제 해결
+```
+A: We have an issue with the system.
+B: I can take a look at it.
+   What's the problem?
+A: Users can't log in.
+B: I will check the server logs.
+   I should have an answer in 30 minutes.
+```
 
 ---
 
-## ✅ 오늘의 학습 완료 체크
+## ⚠️ 주의사항
 
-- [ ] 숫자 1-20 암기 완료
-- [ ] 단어 8개 암기 완료
-- [ ] I have + 숫자 패턴 익히기
-- [ ] 질문-대답 연습 완료
-- [ ] 자기소개 완성 완료
-- [ ] 미니 대화 연습 완료
+### 1. 조동사 뒤는 동사원형
+```
+❌ I can helps you.
+✅ I can help you.
+
+❌ She should checks it.
+✅ She should check it.
+```
+
+### 2. 3인칭 단수 -s 없음
+```
+❌ He cans do it.
+✅ He can do it.
+
+❌ She wills come.
+✅ She will come.
+```
+
+### 3. 공손함의 순서
+```
+격식 낮음: Can you ~?
+중간: Could you ~?
+격식 높음: Would you ~?
+```
+
+---
+
+## ✏️ 연습 문제
+
+### 문제 1: 알맞은 조동사 선택
+1. I _____ speak Korean. (능력)
+2. You _____ check the document. (조언)
+3. I _____ finish it tomorrow. (미래)
+4. _____ you send me the file? (요청)
+5. We _____ meet next week. (제안)
+
+### 문제 2: 부정문 만들기
+1. I can attend. → _____
+2. She should go. → _____
+3. They will come. → _____
+
+### 문제 3: 번역하기
+1. 파일 보내주실 수 있나요? → _____
+2. 내일 끝낼게요. → _____
+3. 이것 논의해야 해요. → _____
+
+### 문제 4: 상황에 맞는 표현
+1. 고객에게 검토 요청 (공손하게) → _____
+2. 내일 일정 제안 → _____
+3. 오늘 끝낼 것이라고 약속 → _____
+
+---
+
+## 🏃 실전 과제
+
+### 1. 비즈니스 이메일 작성 (15분)
+다음 상황에 맞는 이메일:
+```
+상황: 동료에게 도움 요청
+
+Hi [Name],
+
+I'm working on [project].
+Could you [요청]?
+I will [제공할 것].
+I can [가능한 것].
+
+Thank you,
+[Your name]
+```
+
+### 2. Week 1 종합 정리 (15분)
+이번 주 배운 것:
+```
+Day 1: Be동사, 자기소개
+Day 2: 일반동사 현재형, 루틴
+Day 3: 과거형, 경험 말하기
+Day 4: 진행형, 현재 vs 진행
+Day 5: 조동사, 비즈니스 표현
+
+이제 할 수 있는 것:
+- [ ] 영어로 자기소개
+- [ ] 일과 설명
+- [ ] 경력 이야기
+- [ ] 현재 업무 설명
+- [ ] 요청/제안/약속 표현
+```
+
+### 3. 종합 대화 연습 (10분)
+배운 모든 것을 사용해서 대화 만들기:
+- 자기소개
+- 현재 하는 일
+- 과거 경험
+- 미래 계획
+- 요청/제안
+
+---
+
+## ✅ 완료 체크리스트
+
+- [ ] 조동사 can, should, will 이해
+- [ ] 비즈니스 표현 20개 익히기
+- [ ] 요청 표현 5가지
+- [ ] 제안 표현 5가지
+- [ ] Week 1 전체 복습
+- [ ] 실전 대화 연습
 
 **학습 시간:** ___분
-**어려웠던 점:**
-**잘된 점:**
-**주말 복습 계획:**
-
----
-
-## 💡 학습 팁
-
-### 오늘의 팁
-- 숫자는 일상에서 자주 사용하세요
-- 시간 볼 때, 물건 셀 때 영어로!
-- "I have" 패턴은 정말 많이 쓰여요
-
-### 주말 복습 계획
-- 토요일: 월-금 배운 내용 전체 복습
-- 일요일: 자기소개 완벽하게 외우기
+**가장 유용한 표현:**
+**실제로 사용할 문장:**
 
 ---
 
 ## 📌 정답
 
-### 연습 2 답
-1. I have one **cat**. (단수)
-2. I have two **friends**. (복수 +s)
-3. I have three **pens**. (복수 +s)
-4. I have five **books**. (복수 +s)
+### 문제 1
+1. can
+2. should
+3. will
+4. Can / Could / Would
+5. can / could / should
+
+### 문제 2
+1. I can't attend. / I cannot attend.
+2. She shouldn't go.
+3. They won't come. / They will not come.
+
+### 문제 3
+1. Can/Could you send me the file?
+2. I will finish it tomorrow.
+3. We should discuss this.
+
+### 문제 4
+1. Could you review this document?
+2. Can we meet tomorrow? / We can meet tomorrow.
+3. I will finish it today.
 
 ---
 
-## 🎯 이번 주 배운 내용 정리
+## 💡 Week 1 학습 팁
 
-### 완료한 것들:
-- ✅ 알파벳 A-Z
-- ✅ 기본 단어 30개 이상
-- ✅ be동사 (am, is, are)
-- ✅ This is / That is
-- ✅ I + 동사
-- ✅ I have + 숫자
-- ✅ 기본 질문 2개
-- ✅ 숫자 1-20
+### 복습 방법
+1. **매일 복습** - 전날 배운 내용 5분
+2. **실제 사용** - 업무에서 바로 활용
+3. **녹음** - 자기 목소리로 듣기
 
-**정말 많이 배웠어요! 축하합니다!** 🎉
+### 주말 계획
+- 토요일: Day 1-5 전체 복습
+- 일요일: 실전 테스트 및 정리
+
+### 다음 주 준비
+Week 2에서 배울 내용:
+- 비교급/최상급
+- 수동태
+- 조건문 (if)
+- 더 복잡한 시제
 
 ---
 
-**🎉 5일차 완료! 이제 숫자까지 배웠어요!**
+## 🎉 Week 1 완료 축하!
 
-**내일은 주말 복습 Day! 편하게 복습해요!**
+이번 주 성과:
+- ✅ 100개 이상의 실용 단어 습득
+- ✅ 5가지 핵심 문법 (be동사, 현재, 과거, 진행, 조동사)
+- ✅ 비즈니스 영어 기초 완성
+- ✅ 실전 대화 능력 향상
+
+**정말 잘하셨습니다!**
+
+---
+
+**다음:** [Day 6 - 토요일](./day-6-saturday.md) - Week 1 종합 복습

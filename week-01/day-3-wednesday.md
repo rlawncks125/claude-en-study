@@ -1,297 +1,318 @@
 # Week 1 - Day 3 (수요일)
 
-## 📅 오늘의 학습 목표
-- [ ] 알파벳 N-T 읽고 쓰기
-- [ ] 명사 10개 익히기
-- [ ] This is / That is 표현 배우기
-- [ ] 실생활 문장 만들기
+## 📅 학습 목표
+- [ ] 일반동사 과거형 완전 정복
+- [ ] 규칙/불규칙 동사 30개 익히기
+- [ ] 과거 경험 말하기
+- [ ] 시간 표현 마스터
+
+**학습 시간: 40분**
 
 ---
 
-## 🔄 복습 타임 (5분)
+## 🔄 복습 (5분)
 
-### 빠른 체크!
-1. 알파벳 A-M 순서대로 말하기: [ ]
-2. be동사 3가지: am, is, are
-3. 어제 문장: I am happy.
-
-**복습 완료:** [ ]
+### Quick Check
+- [ ] 일반동사 현재형 do/does 차이
+- [ ] 어제 배운 동사 10개 기억나는지
+- [ ] "I work at..." vs "I'm working on..." 차이
 
 ---
 
-## 🔤 알파벳 학습: N - T
+## 📖 문법: 일반동사 과거형
 
-### 대문자와 소문자
-| 대문자 | 소문자 | 발음 |
-|--------|--------|------|
-| N | n | 엔 |
-| O | o | 오 |
-| P | p | 피 |
-| Q | q | 큐 |
-| R | r | 알 |
-| S | s | 에스 |
-| T | t | 티 |
+> 상세 설명: [grammar/03-simple-past.md](../grammar/03-simple-past.md)
 
-### ✍️ 쓰기 연습
-각 글자를 5번씩 써보세요:
+### 기본 규칙
 
 ```
-N N N N N    n n n n n
-O O O O O    o o o o o
-P P P P P    p p p p p
-Q Q Q Q Q    q q q q q
-R R R R R    r r r r r
-S S S S S    s s s s s
-T T T T T    t t t t t
+규칙 동사: 동사 + ed
+work → worked
+start → started
+finish → finished
+
+불규칙 동사: 암기 필수!
+go → went
+have → had
+make → made
 ```
 
-**완료 체크:** [ ]
+### 문장 구조
+```
+평서문: I worked on the project.
+부정문: I didn't work yesterday.
+의문문: Did you work on it?
+```
 
 ---
 
-## 📚 오늘의 단어: 주변 사물 (10개)
+## 📚 필수 과거형 동사 30개
 
-| 영어 | 발음 | 한국어 | 예문 |
-|------|------|--------|------|
-| **Phone** | 폰 | 전화기 | This is my phone. |
-| **Pen** | 펜 | 펜 | I have a pen. |
-| **Table** | 테이블 | 테이블 | It is a table. |
-| **Chair** | 체어 | 의자 | This is a chair. |
-| **Water** | 워터 | 물 | I like water. |
-| **Food** | 푸드 | 음식 | This is food. |
-| **House** | 하우스 | 집 | It is my house. |
-| **Car** | 카 | 자동차 | That is a car. |
-| **Tree** | 트리 | 나무 | It is a tree. |
-| **Sun** | 선 | 태양 | The sun is hot. |
+### 규칙 동사 (15개)
 
-### 🎯 암기 방법
-1. 각 단어를 5번씩 소리 내어 읽기
-2. 주변에서 해당 물건 찾아보기
-3. 물건을 가리키며 영어로 말하기
+| 현재형 | 과거형 | 뜻 | 예문 |
+|--------|--------|-----|------|
+| **work** | worked | 일하다 | I worked late yesterday. |
+| **start** | started | 시작하다 | I started the project last week. |
+| **finish** | finished | 끝내다 | I finished the report. |
+| **launch** | launched | 출시하다 | We launched the product in March. |
+| **join** | joined | 합류하다 | I joined the company in 2020. |
+| **manage** | managed | 관리하다 | She managed the team well. |
+| **develop** | developed | 개발하다 | They developed a new feature. |
+| **present** | presented | 발표하다 | I presented the proposal. |
+| **submit** | submitted | 제출하다 | I submitted the application. |
+| **complete** | completed | 완료하다 | We completed the project. |
+| **use** | used | 사용하다 | I used Excel for analysis. |
+| **move** | moved | 이사하다/옮기다 | I moved to Seoul. |
+| **live** | lived | 살다 | I lived in Busan before. |
+| **study** | studied | 공부하다 | I studied English in college. |
+| **plan** | planned | 계획하다 | We planned the campaign. |
 
-**암기 완료:** [ ]
+### 불규칙 동사 (15개) - 암기 필수!
 
----
-
-## 📖 오늘의 문법: This is / That is
-
-### This is (디스 이즈)
-- **의미:** 이것은 ~이다
-- **사용:** 가까이 있는 것을 가리킬 때
-
-#### 예문:
-```
-This is a pen. (이것은 펜이야)
-This is my phone. (이것은 내 전화기야)
-This is water. (이것은 물이야)
-```
-
-### That is (댓 이즈)
-- **의미:** 저것은 ~이다
-- **사용:** 멀리 있는 것을 가리킬 때
-
-#### 예문:
-```
-That is a car. (저것은 자동차야)
-That is a tree. (저것은 나무야)
-That is my house. (저것은 내 집이야)
-```
-
-### 차이점 이해하기
-
-```
-가까이 👉 This is a book.
-                (손 닿는 곳)
-
-멀리 👉 That is a car.
-            (저 멀리)
-```
-
-**문법 이해 완료:** [ ]
+| 현재형 | 과거형 | 뜻 | 예문 |
+|--------|--------|-----|------|
+| **go** | went | 가다 | I went to the conference. |
+| **have** | had | 가지다 | I had a meeting this morning. |
+| **make** | made | 만들다 | I made a presentation. |
+| **get** | got | 얻다/받다 | I got the approval. |
+| **see** | saw | 보다 | I saw the results. |
+| **come** | came | 오다 | He came to the office. |
+| **take** | took | 가져가다/받다 | I took a day off. |
+| **give** | gave | 주다 | She gave a great presentation. |
+| **think** | thought | 생각하다 | I thought about it. |
+| **find** | found | 찾다 | I found a solution. |
+| **tell** | told | 말하다 | I told him about the issue. |
+| **leave** | left | 떠나다 | I left early yesterday. |
+| **feel** | felt | 느끼다 | I felt satisfied with the result. |
+| **become** | became | 되다 | I became a manager. |
+| **write** | wrote | 쓰다 | I wrote the proposal. |
 
 ---
 
-## ✏️ 문장 만들기 연습
+## 💬 과거 경험 말하기
 
-### 연습 1: This is + 명사
-주변 물건을 가리키며 10개 문장 만들기:
-
-1. This is a __________.
-2. This is a __________.
-3. This is a __________.
-4. This is a __________.
-5. This is a __________.
-
-**소리 내어 말하기:** [ ]
-
-### 연습 2: That is + 명사
-창밖이나 멀리 있는 것을 가리키며:
-
-1. That is a __________.
-2. That is a __________.
-3. That is a __________.
-
-**소리 내어 말하기:** [ ]
-
-### 연습 3: 빈칸 채우기
-This 또는 That을 넣으세요:
-
-1. _____ is my phone. (손에 들고 있어요)
-2. _____ is a car. (저 멀리 있어요)
-3. _____ is water. (컵을 가리키며)
-4. _____ is a tree. (창밖을 보며)
-5. _____ is my pen. (책상 위 가까이)
-
-**답은 페이지 하단**
-
----
-
-## 🎵 발음 연습
-
-### N-T로 시작하는 단어
-소리 내어 5번씩 읽으세요:
-
-1. **N** - No (노우), Name (네임), Nice (나이스)
-2. **O** - On (온), OK (오케이)
-3. **P** - Phone (폰), Pen (펜), Please (플리즈)
-4. **Q** - Queen (퀸), Question (퀘스천)
-5. **R** - Red (레드), Run (런)
-6. **S** - Sun (선), See (씨), Sit (싯)
-7. **T** - Table (테이블), Tree (트리), Thank you (땡큐)
-
-**발음 연습 완료:** [ ]
-
----
-
-## 💬 오늘의 미니 대화
-
+### 이력/경력
 ```
-A: This is my phone.
-   (디스 이즈 마이 폰.)
-   이것은 내 전화기야.
-
-B: That is my phone.
-   (댓 이즈 마이 폰.)
-   저것은 내 전화기야.
-
-A: This is water.
-   (디스 이즈 워터.)
-   이것은 물이야.
-
-B: I like water!
-   (아이 라이크 워터!)
-   나는 물을 좋아해!
+I worked at Google for 3 years.
+I graduated from Seoul National University in 2018.
+I majored in Computer Science.
+I started my career as a developer.
+I became a team lead in 2021.
 ```
 
-**대화 연습 (10번):** [ ]
+### 프로젝트 경험
+```
+I led the marketing campaign last quarter.
+I developed a mobile app for the client.
+I managed a team of 5 people.
+We launched the product successfully.
+I presented at the annual conference.
+```
+
+### 최근 업무
+```
+I attended a workshop yesterday.
+I had three meetings this morning.
+I finished the quarterly report.
+I submitted the proposal on Monday.
+```
 
 ---
 
-## 🎮 재미있는 활동
+## 🕐 시간 표현
 
-### 집안 물건 영어로 말하기 게임
-1. 방을 돌아다니며 물건 5개 찾기
-2. 각 물건마다 "This is a ___" 말하기
-3. 핸드폰으로 녹음하기
+### 과거 시점
+```
+yesterday (어제)
+  - yesterday morning/afternoon/evening
 
-**찾은 물건:**
-1. This is a ___________
-2. This is a ___________
-3. This is a ___________
-4. This is a ___________
-5. This is a ___________
+last ~ (지난 ~)
+  - last week
+  - last month
+  - last year
+  - last Monday
 
-**활동 완료:** [ ]
+~ ago (~ 전)
+  - two days ago
+  - a week ago
+  - three months ago
+  - five years ago
 
----
+in + 연도 (~ 년에)
+  - in 2020
+  - in March
+  - in the summer
+```
 
-## 🏃 오늘의 액션 아이템
-
-### 30분 학습 계획
-1. ⏰ **0-5분**: 복습 (알파벳 A-M, be동사)
-2. ⏰ **5-15분**: 알파벳 N-T 쓰기
-3. ⏰ **15-25분**: 단어 암기 및 This/That 연습
-4. ⏰ **25-30분**: 집안 물건 게임
-
-**전체 완료:** [ ]
-
----
-
-## 📝 추가 연습 문제
-
-### 문제 1: 문장 만들기
-다음 단어로 문장을 만드세요:
-
-1. phone → This is ___________
-2. car → That is ___________
-3. water → I like ___________
-4. table → This is ___________
-
-### 문제 2: 번역하기
-한국어를 영어로:
-
-1. 이것은 펜이야 → ___________
-2. 저것은 집이야 → ___________
-3. 나는 물을 좋아해 → ___________
-
-**연습 완료:** [ ]
+### 예문
+```
+I joined the company two years ago.
+I worked on that project last month.
+I had a meeting yesterday afternoon.
+I graduated in 2019.
+I moved to Seoul three months ago.
+```
 
 ---
 
-## ✅ 오늘의 학습 완료 체크
+## 💬 실전 대화
 
-- [ ] 알파벳 N-T 쓰기 완료
-- [ ] 단어 10개 암기 완료
-- [ ] This is / That is 이해 완료
-- [ ] 문장 만들기 연습 완료
-- [ ] 집안 물건 게임 완료
-- [ ] 발음 연습 완료
+### 대화 1: 경력 묻기
+```
+A: What did you do before joining here?
+B: I worked at a startup for two years.
+   I was a product manager.
+
+A: What did you do there?
+B: I managed product development and
+   worked closely with the engineering team.
+```
+
+### 대화 2: 최근 업무
+```
+A: How was your day?
+B: It was busy. I had back-to-back meetings.
+
+A: Did you finish the report?
+B: Yes, I submitted it this morning.
+
+A: Great. What's next?
+B: I'll start working on the presentation.
+```
+
+### 대화 3: 프로젝트 경험
+```
+A: Tell me about your recent project.
+B: I led the website redesign project.
+   It took about three months.
+
+A: What was your role?
+B: I managed the timeline and coordinated
+   with designers and developers.
+
+A: When did you launch it?
+B: We launched it last month.
+```
+
+---
+
+## ✏️ 연습 문제
+
+### 문제 1: 과거형 만들기
+1. work → _____
+2. start → _____
+3. go → _____
+4. have → _____
+5. make → _____
+6. finish → _____
+7. see → _____
+8. tell → _____
+
+### 문제 2: 부정문 만들기
+1. I worked yesterday. → _____
+2. She went to the meeting. → _____
+3. They finished the project. → _____
+
+### 문제 3: 의문문 만들기
+1. You worked on it. → _____
+2. He attended the conference. → _____
+3. They launched it. → _____
+
+### 문제 4: 나의 경험 쓰기
+```
+1. I worked at _____ for _____ years.
+2. I graduated from _____ in _____.
+3. I joined my current company _____ ago.
+4. Last week, I _____.
+5. Yesterday, I _____.
+```
+
+---
+
+## 🏃 실전 과제
+
+### 1. 경력 타임라인 작성 (10분)
+자신의 경력/학력을 과거형으로 작성:
+```
+2015: I graduated from _____.
+2016: I started working at _____.
+2018: I became _____.
+2020: I moved to _____.
+2022: I joined _____.
+```
+
+### 2. 지난주 회고 (10분)
+지난주에 한 일을 5문장으로:
+```
+Last week:
+- I _____.
+- I _____.
+- I _____.
+- I _____.
+- I _____.
+```
+
+### 3. 프로젝트 설명 (10분)
+최근 프로젝트나 업무를 과거형으로 설명:
+- [ ] 3-5문장으로 작성
+- [ ] 소리 내어 5번 읽기
+- [ ] 녹음해서 들어보기
+
+---
+
+## ✅ 완료 체크리스트
+
+- [ ] 과거형 규칙 이해
+- [ ] 규칙 동사 15개 암기
+- [ ] 불규칙 동사 15개 암기
+- [ ] 시간 표현 익히기
+- [ ] 부정문/의문문 만들기
+- [ ] 경력 타임라인 작성
+- [ ] 실전 대화 연습
 
 **학습 시간:** ___분
-**어려웠던 점:**
-**잘된 점:**
-**내일 목표:**
-
----
-
-## 💡 학습 팁
-
-### 오늘의 팁
-- 주변 물건을 볼 때마다 영어로 말해보세요
-- 포스트잇에 영어 단어를 써서 물건에 붙이세요
-- 예: 책상 → "Table", 의자 → "Chair"
-
-### 실생활 활용
-- 아침에 일어나면: "This is my phone"
-- 밥 먹을 때: "This is food"
-- 물 마실 때: "This is water"
+**가장 유용한 표현:**
+**암기 어려운 불규칙 동사:**
 
 ---
 
 ## 📌 정답
 
-### 연습 3 답
-1. **This** is my phone. (가까이)
-2. **That** is a car. (멀리)
-3. **This** is water. (가까이)
-4. **That** is a tree. (멀리)
-5. **This** is my pen. (가까이)
+### 문제 1
+1. worked
+2. started
+3. went
+4. had
+5. made
+6. finished
+7. saw
+8. told
 
-### 추가 연습 문제 답
+### 문제 2
+1. I didn't work yesterday.
+2. She didn't go to the meeting.
+3. They didn't finish the project.
 
-#### 문제 1:
-1. This is my phone.
-2. That is a car.
-3. I like water.
-4. This is a table.
-
-#### 문제 2:
-1. This is a pen.
-2. That is a house.
-3. I like water.
+### 문제 3
+1. Did you work on it?
+2. Did he attend the conference?
+3. Did they launch it?
 
 ---
 
-**🎉 3일차 완료! 이제 주변 물건을 영어로 말할 수 있어요!**
+## 💡 학습 팁
 
-**내일은 알파벳 U-Z와 동사를 배워요!**
+### 불규칙 동사 암기법
+1. **자주 쓰는 것부터** - go, have, make, get, see
+2. **그룹으로** - find/found, feel/felt 같은 패턴
+3. **문장으로** - I went to work. I had a meeting.
+
+### 실전 활용
+- 매일 저녁 오늘 한 일을 과거형으로 정리
+- "Today I..." 대신 "I worked on...", "I attended..." 사용
+- 경력 소개를 영어로 준비해두기
+
+---
+
+**다음:** [Day 4 - 목요일](./day-4-thursday.md) - 진행형 & 시제 비교
