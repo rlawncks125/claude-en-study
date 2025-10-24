@@ -1,394 +1,416 @@
-# Week 1 - Day 6 (토요일) - 복습의 날
+# Week 1 - Day 6 (토요일) - 실전 복습
 
-## 📅 오늘의 학습 목표
-- [ ] 월-금 배운 내용 전체 복습
-- [ ] 약한 부분 집중 연습
-- [ ] 자기소개 완벽하게 외우기
-- [ ] 재미있게 복습하기
+## 📅 학습 목표
+- [ ] Week 1 핵심 문법 완전 정리
+- [ ] 실전 비즈니스 시나리오 연습
+- [ ] 약점 파악 및 보완
+- [ ] 종합 대화 능력 향상
 
----
-
-## 🎯 주말 복습 방식
-
-**주말에는 새로운 내용 없이 복습만 해요!**
-- 부담 없이 천천히
-- 재미있는 활동 위주
-- 약한 부분만 집중
+**학습 시간: 60분 (주말이니 조금 더!)**
 
 ---
 
-## ✅ Day 1-5 체크리스트
+## 🎯 주말 복습 전략
 
-### Day 1 (월요일)
-- [ ] 알파벳 A-F 기억나나요?
-- [ ] 단어: Apple, Book, Cat, Dog, Egg
-- [ ] 인사: Hello, Hi, Good morning
-
-**복습 필요:** Yes / No
+**새로운 내용 없음 - 100% 복습과 실전 연습**
+- 이론보다 실습 위주
+- 실제 상황 시뮬레이션
+- 약한 부분 집중 보강
 
 ---
 
-### Day 2 (화요일)
-- [ ] 알파벳 G-M 기억나나요?
-- [ ] be동사: am, is, are
-- [ ] I am happy. 말할 수 있나요?
+## 📚 Week 1 핵심 정리
 
-**복습 필요:** Yes / No
+### Day 1-5 요약
 
----
+| Day | 문법 | 핵심 표현 | 단어 수 |
+|-----|------|----------|---------|
+| 1 | Be동사 | 자기소개, 인사 | 15개 |
+| 2 | 현재형 | 루틴, 빈도 표현 | 20개 |
+| 3 | 과거형 | 경력, 경험 | 30개 |
+| 4 | 진행형 | 현재 업무, 일정 | 20개 |
+| 5 | 조동사 | 요청, 제안, 약속 | 20개 |
 
-### Day 3 (수요일)
-- [ ] 알파벳 N-T 기억나나요?
-- [ ] This is / That is 차이 아나요?
-- [ ] 주변 물건 영어로 말할 수 있나요?
-
-**복습 필요:** Yes / No
+**총계: 100개+ 단어, 5개 핵심 문법**
 
 ---
 
-### Day 4 (목요일)
-- [ ] 알파벳 U-Z 기억나나요?
-- [ ] 동사 10개 기억나나요?
-- [ ] I eat food. 말할 수 있나요?
+## ✅ 문법 복습 체크
 
-**복습 필요:** Yes / No
+### 1. Be동사 (5분)
+
+**빠른 테스트:**
+```
+1. I _____ a developer. (am/is/are)
+2. She _____ busy. (am/is/are)
+3. They _____ in a meeting. (am/is/are)
+4. I _____ at the conference yesterday. (was/were)
+```
+
+**실전 문장:**
+- I'm a project manager at Samsung.
+- I'm currently working on a new feature.
+- I was a developer before.
+
+**자신감:** ⭐⭐⭐⭐⭐ (5점 만점)
 
 ---
 
-### Day 5 (금요일)
-- [ ] 숫자 1-20 기억나나요?
-- [ ] I have + 숫자 패턴 기억나나요?
-- [ ] 자기소개 할 수 있나요?
+### 2. 일반동사 현재형 (5분)
 
-**복습 필요:** Yes / No
+**빠른 테스트:**
+```
+1. I (work/works) from home.
+2. She (manage/manages) a team.
+3. Do you (work/works) on weekends?
+4. He (don't/doesn't) attend meetings.
+```
+
+**실전 문장:**
+- I work as a data analyst.
+- I usually start at 9 and finish at 6.
+- I check my email every morning.
+
+**자신감:** ⭐⭐⭐⭐⭐
 
 ---
 
-## 📚 종합 복습
+### 3. 일반동사 과거형 (10분)
 
-### 1단계: 알파벳 마스터 (10분)
-
-#### 활동 1: 알파벳 쓰기
-A부터 Z까지 대문자와 소문자 모두 쓰기:
+**불규칙 동사 테스트:**
 ```
-A a   B b   C c   D d   E e   F f   G g
-H h   I i   J j   K k   L l   M m   N n
-O o   P p   Q q   R r   S s   T t   U u
-V v   W w   X x   Y y   Z z
+go → _____
+have → _____
+make → _____
+get → _____
+see → _____
 ```
 
-**완료:** [ ]
+**실전 문장:**
+- I worked at Google for 3 years.
+- I graduated from SNU in 2018.
+- I joined this company two years ago.
+- I led the marketing campaign last quarter.
 
-#### 활동 2: 알파벳 암송
-- 순서대로: A-Z
-- 거꾸로: Z-A
-
-**완료:** [ ]
+**자신감:** ⭐⭐⭐⭐⭐
 
 ---
 
-### 2단계: 단어 총정리 (15분)
+### 4. 현재진행형 (5분)
 
-#### 이번 주 배운 모든 단어 체크
-각 단어를 보고 한국어 뜻이 바로 떠오르나요?
+**빠른 테스트:**
+```
+1. I (work) on a project. → I'm _____
+2. She (attend) a meeting. → She's _____
+3. 현재 vs 진행: I work / I'm working 차이는?
+```
 
-**Day 1 단어:**
-- [ ] Apple (사과)
-- [ ] Book (책)
-- [ ] Cat (고양이)
-- [ ] Dog (개)
-- [ ] Egg (계란)
+**실전 문장:**
+- I'm working on the quarterly report.
+- She's attending a conference this week.
+- We're launching the product next month.
 
-**Day 2 단어:**
-- [ ] Happy (행복한)
-- [ ] Good (좋은)
-- [ ] I (나)
-- [ ] You (너)
-- [ ] Man (남자)
-- [ ] Girl (소녀)
-- [ ] It (그것)
-
-**Day 3 단어:**
-- [ ] Phone (전화기)
-- [ ] Pen (펜)
-- [ ] Table (테이블)
-- [ ] Chair (의자)
-- [ ] Water (물)
-- [ ] Food (음식)
-- [ ] House (집)
-- [ ] Car (자동차)
-- [ ] Tree (나무)
-- [ ] Sun (태양)
-
-**Day 4 단어:**
-- [ ] Go (가다)
-- [ ] Come (오다)
-- [ ] Eat (먹다)
-- [ ] Drink (마시다)
-- [ ] See (보다)
-- [ ] Like (좋아하다)
-- [ ] Want (원하다)
-- [ ] Have (가지다)
-- [ ] Sleep (자다)
-- [ ] Run (달리다)
-
-**Day 5 단어:**
-- [ ] Friend (친구)
-- [ ] Brother (남자형제)
-- [ ] Sister (여자형제)
-- [ ] Time (시간)
-- [ ] Money (돈)
-- [ ] Name (이름)
-- [ ] Old (나이/오래된)
-- [ ] Year (년)
-
-**모든 단어 암기 완료:** [ ]
+**자신감:** ⭐⭐⭐⭐⭐
 
 ---
 
-### 3단계: 문법 패턴 복습 (15분)
+### 5. 조동사 (5분)
 
-#### 패턴 1: I am + 형용사/명사
+**빠른 테스트:**
 ```
-I am happy.
-I am good.
-I am a student.
+1. I _____ speak Korean. (can/should/will)
+2. You _____ check the document. (can/should/will)
+3. I _____ finish it tomorrow. (can/should/will)
 ```
-**10번 말하기:** [ ]
 
-#### 패턴 2: This is / That is
-```
-This is my phone. (가까이)
-That is a car. (멀리)
-```
-**주변 물건으로 연습:** [ ]
+**실전 문장:**
+- Can you send me the file?
+- I should review the proposal.
+- I will get back to you by EOD.
 
-#### 패턴 3: I + 동사
-```
-I go.
-I eat food.
-I drink water.
-```
-**10개 문장 만들기:** [ ]
-
-#### 패턴 4: I have + 숫자 + 명사
-```
-I have one book.
-I have two cats.
-I have three pens.
-```
-**주변 물건 세며 연습:** [ ]
+**자신감:** ⭐⭐⭐⭐⭐
 
 ---
 
-### 4단계: 숫자 복습 (10분)
+## 🎭 실전 시나리오 연습
 
-#### 1-20 세기
-순서대로 3번 말하기:
+### 시나리오 1: 첫 미팅 (10분)
+
+**상황:** 새로운 클라이언트와 첫 미팅
+
+**Your lines:**
 ```
-One, two, three, four, five,
-Six, seven, eight, nine, ten,
-Eleven, twelve, thirteen, fourteen, fifteen,
-Sixteen, seventeen, eighteen, nineteen, twenty.
+1. 자기소개
+   "Hello, I'm [name]. I'm a [position] at [company]."
+
+2. 경력 소개
+   "I've been working in [field] for [X] years.
+    I joined [company] [time] ago."
+
+3. 현재 프로젝트
+   "I'm currently working on [project].
+    We're planning to launch it [time]."
+
+4. 제안
+   "We can discuss the details.
+    Should we schedule a follow-up?"
 ```
 
-**완료:** [ ]
-
-#### 거꾸로 세기
-20부터 1까지:
-```
-Twenty, nineteen, eighteen...
-```
-
-**완료:** [ ]
-
-#### 랜덤 숫자 말하기
-아래 숫자를 영어로:
-- 7 → __________
-- 13 → __________
-- 18 → __________
-- 5 → __________
-- 20 → __________
-
-**완료:** [ ]
+**연습:**
+- [ ] 소리 내어 5번 읽기
+- [ ] 자신의 정보로 바꿔서 말하기
+- [ ] 녹음해서 듣기
 
 ---
 
-## 🎮 재미있는 복습 활동
+### 시나리오 2: 전화 응대 (10분)
 
-### 활동 1: 영어 집안 탐험 (20분)
+**상황:** 동료가 당신을 찾는 전화
 
-#### 미션
-집안을 돌아다니며 물건 찾고 영어로 말하기!
-
-**찾을 것:**
-1. 책 (book) 몇 권? → I have ___ books.
-2. 펜 (pen) 몇 개? → I have ___ pens.
-3. 의자 (chair) 몇 개? → This is a chair.
-4. 전화기 (phone) → This is my phone.
-5. 물 (water) → I drink water.
-
-**완료:** [ ]
-
-### 활동 2: 영어 일기 쓰기 (10분)
-
-#### 오늘 하루를 영어로!
-배운 문장 패턴을 사용해서 3-5줄 일기 쓰기:
-
+**Dialogue:**
 ```
-Today is Saturday. (오늘은 토요일)
-I am happy. (나는 행복해)
-I have ___ friends. (친구가 ___ 명 있어)
-I like ___. (나는 ___를 좋아해)
-I eat ___. (나는 ___을 먹어)
+A: Hi, is [your name] available?
+
+You: (Option 1 - 가능)
+     "Yes, speaking. How can I help you?"
+
+You: (Option 2 - 바쁨)
+     "I'm in a meeting right now.
+      Can I call you back in 30 minutes?"
+
+You: (Option 3 - 다른 사람 찾음)
+     "I'm sorry, he/she is not available.
+      He/She's attending a conference.
+      Can I take a message?"
 ```
 
-**일기 쓰기 완료:** [ ]
-
-### 활동 3: 자기소개 비디오 만들기 (15분)
-
-#### 핸드폰으로 자기소개 녹화하기!
-
-**스크립트:**
-```
-Hello! My name is __________.
-I am ___ years old.
-I have ___ brother(s).
-I have ___ sister(s).
-I like __________.
-I am happy!
-```
-
-**녹화 완료:** [ ]
+**연습:**
+- [ ] 3가지 옵션 모두 연습
+- [ ] 실제 전화 상황 상상하며 말하기
 
 ---
 
-## 🎯 실력 체크 퀴즈
+### 시나리오 3: 이메일 답장 (15분)
 
-### 퀴즈 1: 번역하기 (영어 → 한국어)
-1. I am happy. → __________
-2. This is my phone. → __________
-3. I have two cats. → __________
-4. I like water. → __________
-5. I eat food. → __________
+**받은 이메일:**
+```
+Hi,
 
-### 퀴즈 2: 번역하기 (한국어 → 영어)
-1. 안녕하세요 → __________
-2. 나는 학생이야 → __________
-3. 이것은 책이야 → __________
-4. 나는 물을 마셔 → __________
-5. 나는 친구가 3명 있어 → __________
+Could you review the attached proposal
+and share your feedback by Friday?
 
-### 퀴즈 3: 빈칸 채우기
-1. I _____ happy. (am/is/are)
-2. This _____ a book. (am/is/are)
-3. I _____ water. (drink/drinks)
-4. I have two _____. (cat/cats)
-5. _____ is your name? (What/How)
+Thanks,
+Sarah
+```
 
-**답은 페이지 하단**
+**Your reply (작성해보기):**
+```
+Hi Sarah,
+
+Thank you for sending the proposal.
+I (현재 진행 중인 일).
+I (능력/가능) review it by (시간).
+I (약속) send you feedback by (마감).
+
+(추가 질문/제안이 있다면)
+
+Best regards,
+[Your name]
+```
+
+**실제 작성:**
+```
+___________________________________
+___________________________________
+___________________________________
+___________________________________
+```
+
+**체크:**
+- [ ] Be동사 사용
+- [ ] 현재진행형 사용
+- [ ] 조동사 사용
 
 ---
 
-## 💬 종합 대화 연습
+## 💪 약점 보강
 
-### 대화문 1: 처음 만났을 때
-```
-A: Hello! My name is Tom. What is your name?
-B: Hi! My name is Jane.
-A: How old are you?
-B: I am 20 years old. How old are you?
-A: I am 22 years old.
-B: Nice to meet you!
-```
+### 가장 어려웠던 부분 체크
 
-### 대화문 2: 친구와 대화
-```
-A: I have a cat. Do you have a cat?
-B: No. I have a dog!
-A: I like dogs, too!
-B: I am happy!
-```
+**문법:**
+- [ ] Be동사 (am/is/are/was/were)
+- [ ] 현재형 3인칭 단수 (-s)
+- [ ] 과거형 불규칙 동사
+- [ ] 진행형 만들기 (-ing)
+- [ ] 조동사 사용
 
-**각 대화 10번 연습:** [ ]
+**표현:**
+- [ ] 자기소개
+- [ ] 경력 설명
+- [ ] 현재 업무 설명
+- [ ] 요청 표현
+- [ ] 약속 표현
 
----
+### 집중 복습 (15분)
 
-## 📊 이번 주 성과 확인
+가장 어려운 것 1-2개 선택해서 집중 연습:
 
-### 배운 내용
-- ✅ 알파벳 26자 (A-Z)
-- ✅ 기본 단어 40개 이상
-- ✅ 숫자 1-20
-- ✅ 문법 패턴 4가지
-- ✅ 질문-대답 2가지
-- ✅ 자기소개 완성
+**선택 1: _____________**
+- grammar/ 파일 다시 읽기
+- 해당 Day 파일 복습
+- 예문 10개 만들어보기
 
-### 할 수 있게 된 것
-- [ ] 알파벳을 읽고 쓸 수 있다
-- [ ] 간단한 자기소개를 할 수 있다
-- [ ] 주변 물건을 영어로 말할 수 있다
-- [ ] 기본적인 문장을 만들 수 있다
-- [ ] 숫자를 영어로 셀 수 있다
+**선택 2: _____________**
+- 실전 대화 10번 반복
+- 자신의 상황으로 바꿔서 연습
+- 녹음하고 들어보기
 
 ---
 
-## ✅ 토요일 학습 완료 체크
+## 🎯 종합 대화 연습 (15분)
 
-- [ ] 알파벳 전체 복습 완료
-- [ ] 단어 40개 복습 완료
-- [ ] 문법 패턴 복습 완료
-- [ ] 숫자 복습 완료
-- [ ] 재미있는 활동 완료
-- [ ] 실력 체크 퀴즈 완료
-- [ ] 자기소개 비디오 완료
+### 완전한 자기소개 + 업무 소개
+
+**모든 문법을 사용해서 1-2분 말하기:**
+
+```
+[자기소개 - Be동사]
+Hello, I'm [name].
+I'm a [position] at [company].
+
+[경력 - 과거형]
+I graduated from [school] in [year].
+I worked at [previous company] for [X] years.
+I joined [current company] [time] ago.
+
+[현재 업무 - 현재형/진행형]
+I manage/develop/handle [responsibility].
+Currently, I'm working on [current project].
+I usually work from [location].
+
+[미래 계획 - 조동사]
+We will launch [project] [time].
+I can help you with [service/product].
+We should discuss the details.
+
+Nice to meet you!
+```
+
+**과제:**
+1. 위 템플릿 완성하기
+2. 소리 내어 10번 연습
+3. 녹음하고 들어보기
+4. 1분 30초 안에 말하기
+
+**녹음 완료:** [ ]
+
+---
+
+## ✅ 토요일 복습 완료 체크
+
+### 문법 복습
+- [ ] Be동사 복습 완료
+- [ ] 현재형 복습 완료
+- [ ] 과거형 복습 완료
+- [ ] 진행형 복습 완료
+- [ ] 조동사 복습 완료
+
+### 실전 연습
+- [ ] 시나리오 1 (첫 미팅) 연습
+- [ ] 시나리오 2 (전화 응대) 연습
+- [ ] 시나리오 3 (이메일) 작성
+- [ ] 약점 보강 완료
+- [ ] 종합 자기소개 녹음
 
 **학습 시간:** ___분
-**가장 잘한 것:**
-**더 연습할 것:**
-**내일 목표:**
+**가장 많이 향상된 부분:**
+**내일 더 연습할 부분:**
 
 ---
 
-## 💡 주말 팁
+## 📊 자가 평가
 
-### 오늘의 팁
-- 주말에는 부담 갖지 마세요!
-- 재미있는 활동 위주로!
-- 완벽하지 않아도 괜찮아요!
+### 각 항목을 5점 만점으로 평가
 
-### 일요일 계획
-- 편하게 마지막 복습
-- Week 1 총정리
-- Week 2 준비
+```
+문법 이해도:
+- Be동사: ___/5
+- 현재형: ___/5
+- 과거형: ___/5
+- 진행형: ___/5
+- 조동사: ___/5
 
----
+평균: ___/5
+```
 
-## 📌 퀴즈 정답
+```
+실전 활용:
+- 자기소개: ___/5
+- 경력 설명: ___/5
+- 현재 업무 설명: ___/5
+- 이메일 작성: ___/5
+- 전화 응대: ___/5
 
-### 퀴즈 1 답
-1. 나는 행복해
-2. 이것은 내 전화기야
-3. 나는 고양이가 2마리 있어
-4. 나는 물을 좋아해
-5. 나는 음식을 먹어
+평균: ___/5
+```
 
-### 퀴즈 2 답
-1. Hello
-2. I am a student
-3. This is a book
-4. I drink water
-5. I have three friends
+**전체 평균: ___/5**
 
-### 퀴즈 3 답
-1. am
-2. is
-3. drink
-4. cats
-5. What
+**평가 기준:**
+- 5점: 완벽! 실제로 사용 가능
+- 4점: 잘함. 조금만 더 연습
+- 3점: 이해함. 더 연습 필요
+- 2점: 어려움. 내일 다시 복습
+- 1점: 모르겠음. 기초부터 다시
 
 ---
 
-**🎉 토요일 복습 완료! 정말 잘하고 있어요!**
+## 💡 학습 팁
 
-**내일은 일요일 마지막 정리! 거의 다 왔어요!**
+### 효과적인 복습 방법
+1. **이론 20% : 실습 80%**
+   - 문법 규칙 다시 읽기보다
+   - 실제 문장 만들고 말하기
+
+2. **자신의 상황으로**
+   - 예문 그대로 외우지 말고
+   - 자신의 직업, 경력, 프로젝트로 바꾸기
+
+3. **녹음 필수**
+   - 자기 목소리로 들으면 개선점 발견
+   - 발음, 유창성 체크
+
+### 일요일 준비
+내일(일요일)은:
+- 최종 실력 테스트
+- 실전 롤플레이
+- Week 1 완전 정리
+- Week 2 미리보기
+
+---
+
+## 📌 빠른 참조
+
+### 자주 쓰는 표현 정리
+
+**요청:**
+- Can/Could you send me the file?
+- Would you be able to join the meeting?
+
+**제안:**
+- We can discuss this tomorrow.
+- Should we schedule a follow-up?
+
+**약속:**
+- I will finish it by Friday.
+- I will get back to you.
+
+**현재 상태:**
+- I'm working on the report.
+- I'm in a meeting right now.
+
+---
+
+**내일:** [Day 7 - 일요일](./day-7-sunday.md) - 최종 평가 & 주간 완성
+
+**거의 다 왔어요! 내일 마지막 정리하면 Week 1 완료!** 🎉
