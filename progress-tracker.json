@@ -1,5 +1,5 @@
 {
-  "currentWeek": 1,
+  "currentWeek": 2,
   "completedWeeks": [],
   "weekProgress": {
     "week-01": {
@@ -17,10 +17,39 @@
       },
       "finalTestScore": null,
       "selfAssessment": {
-        "alphabetMastery": 0,
+        "beVerbMastery": 0,
+        "presentTenseMastery": 0,
+        "pastTenseMastery": 0,
+        "progressiveMastery": 0,
+        "modalsMastery": 0,
         "vocabularyCount": 0,
-        "numbersMastery": 0,
-        "grammarUnderstanding": 0,
+        "speakingConfidence": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-02": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalTestScore": null,
+      "selfAssessment": {
+        "presentPerfectMastery": 0,
+        "futureTenseMastery": 0,
+        "comparativesMastery": 0,
+        "prepositionsMastery": 0,
+        "conjunctionsMastery": 0,
+        "businessExpressionsMastery": 0,
+        "emailWritingSkill": 0,
+        "presentationSkill": 0,
         "overallSatisfaction": 0
       }
     }
