@@ -1,5 +1,5 @@
 {
-  "currentWeek": 2,
+  "currentWeek": 3,
   "completedWeeks": [],
   "weekProgress": {
     "week-01": {
@@ -50,6 +50,32 @@
         "businessExpressionsMastery": 0,
         "emailWritingSkill": 0,
         "presentationSkill": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-03": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalTestScore": null,
+      "selfAssessment": {
+        "passiveVoiceMastery": 0,
+        "relativePronounsMastery": 0,
+        "conditionalsMastery": 0,
+        "reportedSpeechMastery": 0,
+        "proposalWritingSkill": 0,
+        "presentationSkill": 0,
+        "negotiationSkill": 0,
+        "advancedBusinessExpressions": 0,
         "overallSatisfaction": 0
       }
     }

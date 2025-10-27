@@ -20,14 +20,16 @@
 9. [전치사 (Prepositions)](./09-prepositions.md)
 10. [접속사 (Conjunctions)](./10-conjunctions.md)
 
+### Week 3: 고급 문법 (Advanced Grammar)
+11. [수동태 (Passive Voice)](./11-passive-voice.md)
+12. [관계대명사 (Relative Pronouns)](./12-relative-pronouns.md)
+13. [가정법 (Conditionals)](./13-conditionals.md)
+14. [간접화법 (Reported Speech)](./14-reported-speech.md)
+
 ### 추후 학습 예정 (Coming Soon)
 - 명사와 관사 (Nouns & Articles)
 - 대명사 (Pronouns)
-- 수동태 (Passive Voice)
 - to부정사와 동명사 (Infinitives & Gerunds)
-- 가정법 (Conditionals)
-- 관계대명사 (Relative Pronouns)
-- 간접화법 (Reported Speech)
 
 ---
 
@@ -67,11 +69,18 @@
 
 **학습 결과**: 비즈니스 이메일 작성, 프레젠테이션, 협상, 복잡한 문장 구성
 
-### Week 3 이후: 고급 문법 (예정)
-- 수동태 (Passive Voice)
-- 관계대명사 (Relative Pronouns)
-- 가정법 (Conditionals)
-- 간접화법 (Reported Speech)
+### Week 3: 고급 문법 (4개 문법)
+- 11: 수동태 (Passive Voice - 시제별 수동태)
+- 12: 관계대명사 (who, which, that, whose, where, when)
+- 13: 가정법 (1st, 2nd, 3rd Conditionals)
+- 14: 간접화법 (Reported Speech - 시제 변화)
+
+**학습 결과**: 전문 보고서 작성, 제안서 작성, 회의록, 고급 협상 및 프레젠테이션
+
+### Week 4 이후: 추가 고급 문법 (예정)
+- 명사와 관사 (Nouns & Articles)
+- 대명사 (Pronouns)
+- to부정사와 동명사 (Infinitives & Gerunds)
 
 ---
 
