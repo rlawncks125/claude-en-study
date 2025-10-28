@@ -1,5 +1,5 @@
 {
-  "currentWeek": 4,
+  "currentWeek": 5,
   "completedWeeks": [],
   "weekProgress": {
     "week-01": {
@@ -102,6 +102,32 @@
         "negotiationSkill": 0,
         "networkingSkill": 0,
         "overallBusinessCommunication": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-05": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalAssessmentScore": null,
+      "selfAssessment": {
+        "financialEnglishSkill": 0,
+        "technicalEnglishSkill": 0,
+        "marketingEnglishSkill": 0,
+        "hrLegalEnglishSkill": 0,
+        "crisisManagementSkill": 0,
+        "crossCulturalSkill": 0,
+        "industryVocabulary": 0,
+        "professionalPortfolio": 0,
         "overallSatisfaction": 0
       }
     }
