@@ -26,10 +26,10 @@
 13. [가정법 (Conditionals)](./13-conditionals.md)
 14. [간접화법 (Reported Speech)](./14-reported-speech.md)
 
-### 추후 학습 예정 (Coming Soon)
-- 명사와 관사 (Nouns & Articles)
-- 대명사 (Pronouns)
-- to부정사와 동명사 (Infinitives & Gerunds)
+### 추가 필수 문법 (Additional Essential Grammar)
+15. [명사와 관사 (Nouns & Articles)](./15-nouns-articles.md)
+16. [대명사 (Pronouns)](./16-pronouns.md)
+17. [to부정사와 동명사 (Infinitives & Gerunds)](./17-infinitives-gerunds.md)
 
 ---
 
@@ -105,10 +105,39 @@
 
 **학습 결과**: 전문 분야에서 고급 비즈니스 영어 구사, 글로벌 환경 대응 능력
 
-### 추후 학습 예정 (Coming Soon)
-- 명사와 관사 (Nouns & Articles)
-- 대명사 (Pronouns)
-- to부정사와 동명사 (Infinitives & Gerunds)
+### 추가 필수 문법 (3개 문법)
+Week 1-5를 보완하는 필수 문법들입니다. 언제든 필요할 때 참고하세요.
+
+- 15: 명사와 관사 (Nouns & Articles)
+  * 가산명사 vs. 불가산명사
+  * a/an/the 사용 규칙
+  * 비즈니스 영어 필수 명사 표현
+
+- 16: 대명사 (Pronouns)
+  * 인칭대명사 (I, me, my, mine, myself)
+  * 지시대명사 (this, that, these, those)
+  * 부정대명사 (everyone, someone, nothing 등)
+
+- 17: to부정사와 동명사 (Infinitives & Gerunds)
+  * to + V vs. V-ing 구분
+  * 전치사 + 동명사
+  * 의미가 달라지는 동사들
+
+**학습 결과**: 정확한 관사 사용, 대명사 실수 방지, to부정사/동명사 완벽 구분
+
+---
+
+## 📊 전체 문법 요약
+
+**총 17개 문법 주제 완성!**
+
+```
+Week 1-3: 핵심 14개 문법
++ 추가 필수: 3개 문법
+= 총 17개 비즈니스 영어 필수 문법
+```
+
+이제 비즈니스 영어에 필요한 모든 문법을 다루었습니다!
 
 ---
 
