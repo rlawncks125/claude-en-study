@@ -77,7 +77,35 @@
 
 **학습 결과**: 전문 보고서 작성, 제안서 작성, 회의록, 고급 협상 및 프레젠테이션
 
-### Week 4 이후: 추가 고급 문법 (예정)
+### Week 4: 실전 비즈니스 커뮤니케이션 (문법 적용)
+**새로운 문법 없음** - Week 1-3에서 배운 14개 문법을 실전에 적용
+
+**학습 내용**:
+- Day 1: 고급 이메일 작성 (10가지 이메일 유형)
+- Day 2: 전화 & 화상회의 영어
+- Day 3: 비즈니스 미팅 진행
+- Day 4: 프레젠테이션 마스터
+- Day 5: 협상 & 네트워킹
+- Day 6: 종합 실전 연습
+- Day 7: 최종 프로젝트 & 4주 수료
+
+**학습 결과**: 모든 비즈니스 상황에서 배운 문법을 자연스럽게 활용
+
+### Week 5: 전문 분야별 비즈니스 영어 (산업별 적용)
+**새로운 문법 없음** - 산업별 전문 어휘 및 표현 집중 학습 (700+ 용어)
+
+**학습 내용**:
+- Day 1: Financial English (재무/회계 영어 - 200+ 용어)
+- Day 2: IT & Technical English (IT/기술 영어 - 200+ 용어)
+- Day 3: Marketing & Sales English (마케팅/영업 영어 - 150+ 용어)
+- Day 4: HR & Legal English (인사/법률 영어 - 150+ 용어)
+- Day 5: Crisis Management Communication (위기 관리 커뮤니케이션)
+- Day 6: Cross-Cultural Business Communication (다문화 비즈니스)
+- Day 7: Final Assessment & Professional Portfolio
+
+**학습 결과**: 전문 분야에서 고급 비즈니스 영어 구사, 글로벌 환경 대응 능력
+
+### 추후 학습 예정 (Coming Soon)
 - 명사와 관사 (Nouns & Articles)
 - 대명사 (Pronouns)
 - to부정사와 동명사 (Infinitives & Gerunds)
