@@ -1,5 +1,5 @@
 {
-  "currentWeek": 5,
+  "currentWeek": 6,
   "completedWeeks": [],
   "weekProgress": {
     "week-01": {
@@ -127,6 +127,33 @@
         "crisisManagementSkill": 0,
         "crossCulturalSkill": 0,
         "industryVocabulary": 0,
+        "professionalPortfolio": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-06": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalMasteryScore": null,
+      "capstoneProjectScore": null,
+      "selfAssessment": {
+        "jobInterviewSkill": 0,
+        "businessWritingSkill": 0,
+        "negotiationMastery": 0,
+        "executiveCommunication": 0,
+        "contractNegotiation": 0,
+        "personalBranding": 0,
+        "overallMasteryLevel": 0,
         "professionalPortfolio": 0,
         "overallSatisfaction": 0
       }
