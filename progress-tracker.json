@@ -1,5 +1,5 @@
 {
-  "currentWeek": 6,
+  "currentWeek": 9,
   "completedWeeks": [],
   "weekProgress": {
     "week-01": {
@@ -155,6 +155,83 @@
         "personalBranding": 0,
         "overallMasteryLevel": 0,
         "professionalPortfolio": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-07": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "leadershipAssessmentScore": null,
+      "selfAssessment": {
+        "executivePresence": 0,
+        "crisisManagement": 0,
+        "strategicThinking": 0,
+        "changeLeadership": 0,
+        "investorRelations": 0,
+        "boardCommunication": 0,
+        "leadershipPortfolio": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-08": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "globalBusinessScore": null,
+      "selfAssessment": {
+        "crossCulturalCommunication": 0,
+        "internationalEtiquette": 0,
+        "globalNegotiation": 0,
+        "virtualGlobalTeams": 0,
+        "marketEntryCommunication": 0,
+        "multilingualBusiness": 0,
+        "culturalIntelligence": 0,
+        "overallSatisfaction": 0
+      }
+    },
+    "week-09": {
+      "status": "not-started",
+      "startDate": null,
+      "completedDate": null,
+      "days": {
+        "day-1": false,
+        "day-2": false,
+        "day-3": false,
+        "day-4": false,
+        "day-5": false,
+        "day-6": false,
+        "day-7": false
+      },
+      "finalCapstoneScore": null,
+      "finalCertificationScore": null,
+      "selfAssessment": {
+        "portfolioDevelopment": 0,
+        "publicSpeaking": 0,
+        "thoughtLeadership": 0,
+        "executiveJobSearch": 0,
+        "mentorshipSkills": 0,
+        "integrationProject": 0,
+        "careerReadiness": 0,
+        "overallMasteryLevel": 0,
         "overallSatisfaction": 0
       }
     }
